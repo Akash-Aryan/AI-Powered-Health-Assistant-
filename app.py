@@ -7,9 +7,6 @@ from nltk.tokenize import word_tokenize
 from sentence_transformers import SentenceTransformer, util
 import torch
 
-
-
-
 # Initialize NLP components (Load once to improve performance)
 qa_pipeline = pipeline("question-answering", model="deepset/roberta-base-squad2")
 semantic_model = SentenceTransformer('all-MiniLM-L6-v2')
