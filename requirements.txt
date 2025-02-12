@@ -1,5 +1,13 @@
-streamlit
+streamlit 
 transformers
-tensorflow
+torch
+sentence-transformers
 nltk
-tf-keras
+langchain-community
+pypdf
+langchain
+torch
+accelerate
+transformers
+sentence_transformers
+faiss_cpu
