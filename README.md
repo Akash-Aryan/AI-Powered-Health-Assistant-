@@ -45,11 +45,23 @@ This chatbot is built using **cutting-edge** technologies to ensure efficiency a
 
 ## 📸 **Screenshots & Demonstrations**  
 
-🔹 **User Interface** – A clean and easy-to-use chatbot window.  
-🔹 **Example Queries** – Ask a health question and get an AI-powered response.  
-🔹 **Symptom Checker** – Enter symptoms and receive possible conditions.  
+![Screenshot 2025-02-12 153020](https://github.com/user-attachments/assets/649bda4f-8715-4bd5-8e37-fc3c0a2a597e)
 
-*_(Add actual screenshots here once available)_*  
+![Screenshot 2025-02-12 154511](https://github.com/user-attachments/assets/06b5d589-0302-4aef-9b95-fb7df8993298)
+
+![Screenshot 2025-02-12 154552](https://github.com/user-attachments/assets/7a0db084-8280-453f-9b80-65d0ee983fad)
+
+![Screenshot 2025-02-12 154642](https://github.com/user-attachments/assets/f09caef4-33b1-47fb-9895-faff15bf8aae)
+
+![Screenshot 2025-02-12 154738](https://github.com/user-attachments/assets/7eb99f29-b55a-4c91-926e-7aae3f9dbe02)
+
+![Screenshot 2025-02-12 155014](https://github.com/user-attachments/assets/26810324-6c7c-4a8d-bea2-99c93a7ec1fa)
+
+![Screenshot 2025-02-12 155109](https://github.com/user-attachments/assets/ee242980-2b91-4f1b-addc-b8d6b560d90e)
+
+![Screenshot 2025-02-12 155322](https://github.com/user-attachments/assets/98238583-94a3-4443-b599-dfb90090d7c0)
+
+
 
 ---
 
