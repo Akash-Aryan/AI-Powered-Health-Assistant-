@@ -153,7 +153,8 @@ This project is **open-source** and available under the MIT License.
 ---
 
 ## 👨‍💻 **Contributors & Contact**  
-Made with ❤️ by Akash Aryan  
+Made with ❤️ by Akash Aryan (Project Lead) & Adharsh P. (Mentor)
+
 
 📧 **Contact:** akashanand1291@gmail.com  
 🔗 **GitHub:** https://github.com/Akash-Aryan 
